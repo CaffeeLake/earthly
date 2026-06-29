@@ -1,6 +1,6 @@
 module github.com/earthly/earthly
 
-go 1.21.0
+go 1.23.0
 
 require (
 	git.sr.ht/~nelsam/hel v0.6.2
@@ -122,7 +122,7 @@ require (
 	go.opentelemetry.io/proto/otlp v0.19.0 // indirect
 	golang.org/x/mod v0.16.0 // indirect
 	golang.org/x/net v0.23.0 // indirect
-	golang.org/x/oauth2 v0.18.0 // indirect
+	golang.org/x/oauth2 v0.27.0 // indirect
 	golang.org/x/sys v0.18.0 // indirect
 	golang.org/x/time v0.3.0 // indirect
 	golang.org/x/tools v0.19.0 // indirect
